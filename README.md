@@ -1,13 +1,11 @@
 # Flask-web-App
 
-- A authentication system in flask with login anf register
-- also a note taking app integrated
+- A authentication system in flask with login and register functionality
+- Also a note taking app integrated inside.
 - ```bash
-    flsk run
+    flask run
   ```
 - [hstar](https://hstarsite.cf)
-
-* also an integrated notes app
 
 // nte
 
